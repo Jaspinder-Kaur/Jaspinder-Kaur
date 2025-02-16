@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jaspinder!<br></h1>
+<h1 align="center">👋 Hi, I'm Jas!<br></h1>
 
 ### Digital Crafter (Engineer/Creator) ~
 I’m a passionate tech aficionado, building my digital world one step at a time. Every project I create is crafted from the ground up — from strategic blueprinting and dynamic design, to solving real-world challenges through the art of programming. 
