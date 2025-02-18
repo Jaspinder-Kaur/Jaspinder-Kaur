@@ -21,8 +21,12 @@ I’m a passionate tech aficionado, building my digital world one step at a time
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaspinder-kaur&theme=tokyonight&hide_border=false)<br/>
 
-
-
-
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaspinder-kaur&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br>
+![](https://github-profile-trophy.vercel.app/?username=jaspinder-kaur&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)<br>
+
+# ✍️ Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
