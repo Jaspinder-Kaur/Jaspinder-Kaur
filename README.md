@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  </h1>
- 
+
+ <img src="https://github.com/user-attachments/assets/b4e78941-586d-4e23-9b9c-965238a021a0" align="center" alt="banner" width="700" height="300">
+
 
 ### Digital Crafter (Engineer/Creator) ~
 I'm Jas Kaur! I’m a passionate tech aficionado, building my digital world one step at a time. Every project I create is crafted from the ground up — from strategic blueprinting and dynamic design, to solving real-world challenges through the art of programming. 
